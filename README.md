@@ -4,9 +4,9 @@ Summary: As with any data set, I cleaned the data to make the data workable. Nex
 
 
 # Documents
-Dashboard.xlsx = The Scfinal dashboard, on the sheet labled "dashboard"
-Raw_Data.xlsx = The raw data
-Screenshot = A screenshot of the final dashboard
+Dashboard.xlsx = The Scfinal dashboard, on the sheet labled "dashboard".
+Raw_Data.xlsx = The raw data.
+Screenshot = A screenshot of the final dashboard.
 
 # Detailed Walkthrough
 1) I removed all the duplicates in the data (26 in total).
