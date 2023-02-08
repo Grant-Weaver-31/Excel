@@ -1,5 +1,4 @@
-# Excel
-Excel Dashboard Project
+# Bike Sales Dashboard
 
 Summary: As with any data set, I cleaned the data to make the data workable. Next, I created some pivot tables to be able to visualize the data. Finally, I created a dashboard to put all the vizulations together. Takeaways that we see: married indivudals, males, higher salaries and people with shorter commute times are all more likely to have made a bike purchase. It should be noted that this is a walkthrough project with Alex the Analyst. 
 
