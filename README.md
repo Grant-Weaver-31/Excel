@@ -4,7 +4,7 @@
 
 
 # Documents
-1) Dashboard.xlsx = The Scfinal dashboard, on the sheet labled "dashboard"
+1) Dashboard.xlsx = The final dashboard, on the sheet labled "dashboard"
 2) Raw_Data.xlsx = The raw data
 3) Screenshot = A screenshot of the final dashboard; reccomended to click on the download tab to get a better view. 
 
